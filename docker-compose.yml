@@ -4,3 +4,4 @@ services :
      image: "rohitd4/notes-app:latest"
      ports :
          - "8000:8000"
+#docker compose
